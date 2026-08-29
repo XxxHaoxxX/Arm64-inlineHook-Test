@@ -6,5 +6,5 @@
 关注我们: https://t.me/mlthack
 
 如何使用：
-将build.sh中的/data/x0/ndk/ndk-build\n
+将build.sh中的/data/x0/ndk/ndk-build
 ndk路径替换为您自己的后直接执行
